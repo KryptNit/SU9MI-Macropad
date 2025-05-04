@@ -6,7 +6,7 @@ Handwired 3 by 3 macro pad, As a token of appreciation and community spirit, thi
 
 ✨ Features
 
-Fully customizable keymap via QMK/[Vial](https://vial.rocks/)/[VIA](https://usevia.app/)
+Fully customizable keymap via QMK/[Vial](https://vial.rocks/)
 
 USB-C connectivity
 
