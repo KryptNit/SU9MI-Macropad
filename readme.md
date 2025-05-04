@@ -3,7 +3,8 @@
 Handwired 3 by 3 macro pad, As a token of appreciation and community spirit, this macropad was crafted to celebrate our shared journey in the Web3 space along with [Surgence](https://x.com/surgence_io) members.
 
 ![SU9MI](https://github.com/user-attachments/assets/71580ed6-ad20-492a-b03b-88f0fe15f70d)
-![image](https://github.com/user-attachments/assets/b556c7bb-593b-4103-b5d5-812b753d6d0c)
+![image](https://github.com/user-attachments/assets/03edfc4d-6d3f-4e1d-b7ad-50c7891c4a9f)
+
 
 
 ✨ Features
