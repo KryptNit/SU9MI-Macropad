@@ -1,8 +1,13 @@
-# su9mi
+# SU9MI Macro Pad
 
-![su9mi](imgur.com image replace me!)
+Handwired 3 by 3 macro pad, As a token of appreciation and community spirit, this macropad was crafted to celebrate our shared journey in the Web3 space along with [https://twitter.com/su](https://x.com/surgence_io) members.
 
-*A short description of the keyboard/project*
+![SU9MI](https://github.com/user-attachments/assets/71580ed6-ad20-492a-b03b-88f0fe15f70d)
+
+✨ Features
+Fully customizable keymap via QMK/[Vial](https://vial.rocks/)/[VIA](https://usevia.app/)
+
+USB-C connectivity
 
 * Keyboard Maintainer: [KryptNit](https://github.com/KryptNit)
 * Hardware Supported: *The PCBs, controllers supported*
