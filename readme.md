@@ -35,15 +35,20 @@ Assembly Steps
 ![3](https://github.com/user-attachments/assets/71650a3d-b61b-4469-961a-6220de677f73)
 
 4) Solder AWG26 to each copperwire and other ends to RP2040 Zero with following pin
-   Col 0 GP12
-   Col 1 GP11
-   Col 2 GP10
-   Row 0 GP29
-   Row 1 GP28
-   Row 2 GP27
+
+|xxx|RP2040 Zero PinOut|
+|:---:|:---:|
+|Col 0|GP12|
+|Col 1|GP11|
+|Col 2|GP10|
+|Row 0|GP29|
+|Row 1|GP28|
+|Row 2|GP27|
+
+   
 ![4](https://github.com/user-attachments/assets/62b4f66d-0de5-4411-9de1-c7b0e371ff90)
 
-5) Install RP2040 Zero into the case, connect the USB-C and load with uf2 file. Once it's done you can install the plate to case and tighten with M2 screws.
+6) Install RP2040 Zero into the case, connect the USB-C and load with uf2 file. Once it's done you can install the plate to case and tighten with M2 screws.
 
 * Keyboard Maintainer: [KryptNit](https://github.com/KryptNit)
 * Hardware Supported: *The PCBs, controllers supported*
