@@ -14,15 +14,17 @@ Fully customizable keymap via QMK/[Vial](https://vial.rocks/)
 USB-C connectivity
 
 BOM
-- Mx Switches x 9
-- Diode 1N4148 x 9
-- RP2040 Zero x 1
-- Copper Wire
-- Heat Shrink Tube
-- AWG26 Wire
-- 3D Printed Switch Plate x 1
-- 3D Printed Case x 1
-- Bolt M2x4 x 4
+|Items|Qty|
+|:---|:---:|
+|Mx Switches |9|
+|Diode 1N4148 |9|
+|RP2040 Zero |1|
+|Copper Wire | |
+|Heat Shrink Tube | |
+|AWG26 Wire | |
+|3D Printed Switch Plate |1|
+|3D Printed Case |1|
+|Bolt M2x4 |4|
 
 Assembly Steps
 1) Install MX Switches to Switch Plate & Solder 1 pin of each switch to copper wire (in vertical - column)
