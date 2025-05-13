@@ -9,9 +9,11 @@ Handwired 3 by 3 macro pad, As a token of appreciation and community spirit, thi
 
 ✨ Features
 
-Fully customizable keymap via QMK/[Vial](https://vial.rocks/)
+- Fully customizable keymap via QMK/[Vial](https://vial.rocks/)
+- USB-C connectivity
+- Multi Layers support (Default 4 layers)
+- 7-degree tilted for comfortable while using
 
-USB-C connectivity
 
 BOM
 |Items|Qty|
@@ -22,8 +24,9 @@ BOM
 |Copper Wire | |
 |Heat Shrink Tube | |
 |AWG26 Wire | |
-|3D Printed Switch Plate |1|
-|3D Printed Case |1|
+|[3D Printed Switch Plate](https://makerworld.com/en/models/1412694-minimal-macropad#profileId-1466694)|1|
+|[3D Printed Case](https://makerworld.com/en/models/1412694-minimal-macropad#profileId-1466694) |1|
+|[3D Printed Keycap](https://makerworld.com/en/models/1412642-keycap-mx-dsa-like#profileId-1466618) |9|
 |Bolt M2x4 |4|
 
 Assembly Steps
